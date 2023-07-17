@@ -1,0 +1,6 @@
+h4, .h4 {
+    text-align: center;
+    font-size: calc(1.26rem + 0.12vw);
+    font-family: Playfair Display,serif !important;
+    font-size: 40px;
+}
